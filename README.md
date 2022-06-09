@@ -24,5 +24,3 @@ The Nashville Housing Dataset is available on [link](https://github.com/AlexTheA
 5)	Removing duplicates <br>
 6)	Deleting unrequired columns <br>
 
-
-Project is inspired from a youtube [video](https://www.youtube.com/watch?v=8rO7ztF4NtU&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=3&t=2100s), with additional data cleaning queries being executed.
